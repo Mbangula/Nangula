@@ -1,0 +1,310 @@
+inda !	go .
+matuka !	run !
+totonka !	run !
+wow !	wow !
+omlilo !	fire !
+kwathela !	help !
+nuka .	jump .
+thikama !	stop !
+okuthikama !	stop !
+thikama !	stop !
+telela !	wait !
+okutelela !	wait !
+ondiweteko .	i see .
+ondakambadhala .	i try .
+ondasindana !	i won !
+ondasindana !	i won !
+oh aye !	oh no !
+okuponokela !	attack !
+ponokela !	attack !
+oshilinawa !	cheers !
+oshilinawa !	cheers !
+oshilinawa !	cheers !
+thikamapo .	get up .
+ondeshimona !	got it !
+ondeshimona !	got it !
+oweshimona ?	got it ?
+oweshimona ?	got it ?
+oweshimona ?	got it ?
+nukilamo .	hop in .
+nukilamo .	hop in .
+papatelandje !	hug me .
+papatelandje !	hug me .
+ondiihatapo .	i fell .
+ondiihatapo .	i fell .
+ondishishi .	i know .
+ondaya .	i left .
+ondaya .	i left .
+inandi sindana .	i lost .
+ondina oovula omulongo nomugoyi .	i m .
+ondili nawa .	i m ok .
+ondili nawa .	i m ok .
+pulakena !	listen .
+aawe !	no way !
+kapena we ompito .	no way !
+aawe !	no way !
+kapena we ompito !	no way !
+aawe !	no way !
+kapena we ompito !	no way !
+aawe !	no way !
+osho ?	really ?
+osho ngaa ?	really ?
+osho tuu ?	really ?
+ndapandula !	thanks .
+otatu kambadhala .	we try .
+otwa sindanene .	we won .
+otwa sindanene .	we won .
+otwa sindanene .	we won .
+otwa sindanene .	we won .
+pula tom .	ask tom .
+oshiwanawa !	awesome !
+ngungumana !	be calm .
+mwena !	be calm .
+ngungumana !	be calm .
+inda pevi !	be cool .
+oshuukilako !	be fair .
+oshuukilako !	be fair .
+oshuukilako !	be fair .
+oshuukilako !	be fair .
+oshuukilako !	be fair .
+oshuukilako !	be fair .
+ne simaneko .	be kind .
+kala wuli nawa !	be nice .
+kala nawa !	be nice .
+kala omuwanawa !	be nice .
+kala wuli nawa !	be nice .
+kala omuwanawa !	be nice .
+kala nawa !	be nice .
+shi dhenga !	beat it .
+ithana ndje !	call me .
+dhenge landje !	call me .
+twi ithana !	call us .
+tu dhengela !	call us .
+ila mo !	come in .
+pita .	come in .
+ila mo !	come in .
+pita !	come in .
+tuningeni !	come on !
+ituyeni !	come on .
+natuyeni !	come on .
+ila !	come on .
+tulapo !	drop it !
+etha !	drop it !
+sheetha !	drop it !
+shitulapo !	drop it !
+zamo !	get out !
+zamo moka !	get out !
+zamo !	get out !
+zamo moka .	get out .
+zamo .	get out .
+inda !	go away !
+inda kokule !	go away !
+inda mpeyaka !	go away .
+zapo !	go away .
+zapo mpoka !	go away .
+inda !	go away .
+inda kokule .	go away .
+inda mpeyaka !	go away .
+zapo !	go away .
+zapo mpoka !	go away .
+enda kashona !	go slow .
+enda kashona !	go slow .
+kalapo nawa .	goodbye !
+tegelela manga !	hang on !
+andiya manga !	hang on !
+iikwatelela !	hang on .
+iikwatelela !	hang on .
+okwaya .	he quit .
+okwetha .	he quit .
+okwa matukapo .	he runs .
+kwathelandje !	help me !
+yambidhidhandje .	help me .
+kwathelandje .	help me .
+tuyambidhidha !	help us .
+tukwathela !	help us .
+shikwata !	hold it !
+tegelela .	hold on .
+twatsakumwe .	i agree .
+ondakambadhala .	i tried .
+ondakambadhalele .	i tried .
+ondli ndakambadhala .	i tried .
+otandiyi .	i ll go .
+onda ondoka .	i m fat .
+ondili nawa kolutu .	i m fat .
+onda pama .	i m fit .
+onda dhengwa !	i m hit !
+onda yahwa !	i m hit !
+otandi ehama .	i m ill .
+onduvite nayi .	i m sad .
+ondasa ohoni .	i m shy .
+onda tuta .	i m wet .
+onda tuta .	i m wet .
+ongame !	it s me !
+tuhanganeni .	join us .
+tuhanganeni .	join us .
+oshoye !	keep it .
+shipungula !	keep it .
+hupita ndje .	kiss me .
+hupita ndje .	kiss me .
+nangame .	me too .
+patulula !	open up .
+patululapo .	open up .
+oshilinawa !	perfect !
+oshiwete .	see you .
+ulikilandje !	show me .
+ulikilandje !	show me .
+mwena !	shut up !
+pata !	shut up !
+mwena !	shut up !
+mwena !	shut up !
+pata !	shut up !
+otwiweteni !	so long .
+shikufapo !	take it .
+kufapo !	take it .
+lombwelandje !	tell me .
+lombwelandje !	tell me .
+tom okwasindana .	tom won .
+penduka !	wake up !
+fikama !	wake up !
+penduka !	wake up !
+pendukapo !	wake up .
+pendukeni !	wake up .
+koshapo !	wash up .
+iyoga !	wash up .
+otushishi .	we know .
+inatu sindana .	we lost .
+inatu monamosha .	we lost .
+otwadhengwa .	we lost .
+inatu sindana .	we lost .
+inatu monamosha .	we lost .
+otwadhengwa .	we lost .
+inatu sindana .	we lost .
+inatu monamosha .	we lost .
+otwadhengwa .	we lost .
+inatu sindana .	we lost .
+olye a sindana ?	who won ?
+olye a monamosha ?	who won ?
+omatuka .	you run .
+onda hondoka ?	am i fat ?
+ondina olutu ulnene ?	am i fat ?
+shuna monima !	back off .
+inda .	back off .
+shuna monima !	back off .
+inda .	back off .
+kala onlumentu !	be a man .
+kala onsamane !	be a man .
+ngungumana !	be still .
+ino inyenga !	be still .
+ino kulukuta !	be still .
+kandishishi .	beats me .
+kandishiwo .	beats me .
+ithana tom .	call tom .
+dhengela tom .	call tom .
+inuva nayi !	cheer up !
+inda pevi !	cool off !
+mumanga .	cuff him .
+shinga !	drive on .
+ukilila !	drive on .
+pitapo !	drive on .
+pita !	drive on .
+inda pevi !	get down !
+inda pevi !	get down .
+inda pevi !	get down .
+inda pevi !	get down .
+inda pevi !	get down .
+inda !	get lost !
+inda kwi !	get lost !
+inda !	get lost !
+manamo !	get real !
+inda komesho .	go ahead .
+tsikila !	go ahead .
+natango komesho !	go ahead .
+inda komesho !	go ahead .
+walonga nawa !	good job !
+waninga nawa !	good job !
+walonga nawa !	good job !
+mukwata .	grab him .
+muhakana .	grab him .
+inda wuka iwuvithe nawa !	have fun .
+inda wuka iwuvithe nawa !	have fun .
+okwakambadhala .	he tries .
+okwatuta .	he s wet .
+ongini aholike !	hi guys .
+okawanawa !	how cute !
+uule uthike peni ?	how deep ?
+oshiwanawa ngini !	how nice !
+otashimonika nawa ngini !	how nice !
+oshilinawa !	how nice !
+oshilinawa ngini !	how nice !
+lombwelandje .	humor me .
+endelela .	hurry up .
+katuka !	hurry up .
+endelela !	hurry up .
+katuka !	hurry up .
+onda ondoka .	i am fat .
+onda ninga nawa .	i did ok .
+ondalonga nawa .	i did ok .
+ondeshi ninga .	i did it .
+osho ndaninga .	i did it .
+onda dhimbwa .	i forgot .
+onduviteko .	i get it .
+onduvako .	i got it .
+ondeshimona .	i got it .
+onda dhenga .	i phoned .
+ondali ndadhenga .	i phoned .
+nandihala .	i refuse .
+ndatinda .	i refuse .
+ndamonene .	i saw it .
+ndamonene .	i saw it .
+opo ndakala .	i stayed .
+ondakalapo .	i stayed .
+andishilongitha .	i use it .
+osho andilongitha .	i use it .
+andishilongitha .	i use it .
+andifutu .	i ll pay .
+andikambadhala .	i ll try .
+ondazako .	i m back .
+ondagaluka .	i m back .
+kandina mafufu komutse .	i m bald .
+ondina iilonga .	i m busy .
+ondi ipyakidhila .	i m busy .
+ndangungumana .	i m calm .
+onduvite utalala .	i m cold .
+ondamana .	i m done .
+ondili nawa .	i m fine .
+ondili nawa .	i m fine .
+ondili nawa .	i m fine .
+onda manguluka !	i m free !
+ondina ethimbo .	i m free .
+onda manguluka .	i m free .
+onda kuta !	i m full .
+onda kuta !	i m full .
+onda nyanyukwa .	i m glad .
+ondili kegumbo .	i m home .
+nda tokelwa .	i m late .
+ondanyengwa .	i m lazy .
+itandi vulusha .	i m lazy .
+ondimu talala .	i m lazy .
+ondimu nyenge .	i m lazy .
+ondili nawa .	i m okay .
+ondili nawa .	i m okay .
+ondili megameno .	i m safe .
+otandi ehama .	i m sick .
+ondishishi nawa .	i m sure .
+ondishishi .	i m sure .
+ondishishi .	i m sure .
+ondishishi nawa .	i m sure .
+ondimle .	i m tall .
+ndananga .	i m thin .
+ondayela .	i m tidy .
+ondayela .	i m tidy .
+okuza ketamekolela ohapu oya li pukalunga .	the same was in the beginning with god .
+oshoka johannes okwa li ine edhililwa natango mondholongo .	for john was not yet cast into prison .
+ ngame itandi kongo esimano lyaantu .	i receive not honour from men .
+ongame oshikwiila shomwenyo .	i am that bread of life .
+nokonima kehe gumwe okwa yi kaandjawo .	and every man went unto his own house .
+ihe jesus okwa yi kondundu yooholivi .	jesus went unto the mount of olives .
+tse natate gumwe . 	i and my father are one .
+aantu oyendji yaankoka oye mu itaale .	and many believed on him there .
+opo jesus okwa lili .	jesus wept .
+oongoka e tonde ndje oku tonde wo natate .	he that hateth me hateth my father also .

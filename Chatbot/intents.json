@@ -1,0 +1,53 @@
+{"intents": [
+	{"tag": "greeting_osh",
+		"patterns": ["Ongiini", "Owa lala po", "Ongula oyili nawa", "Owa tokelwa po nawa", "Owa uhala po nawa","Omuuhalo owu li nawa?"],
+		"responses": ["Onawa, ongiini?", "Onda lala po, ngoye owa lala po nawa?", "Onawa, edhina lyoye?", "Onawa, ongame Veijo, ongoye lye?"],
+		"context_set": ""
+	},
+	{"tag": "greetingResponses_osh",
+		"patterns":["Onawa","Ondi ku hole.", "Onda mwena", "Aawe","Eewa","Kandi na.", "Eee", "Eeno","Omwaalu", "Ngame ondi hole uugame nongalo"],
+		"responses":["Owa longwa shike nena kosikola?", "Otuye kokapana.", "Ila kaandjetu.", "Tuye tu ka dhane etanga.", "Onda hala tu ka tale Black Panther.", "Oto ningi shike?", "Owa lya nale omwiha?", "Ou hole shike?"]
+	
+	},
+	{"tag": "questions_osh",
+		"patterns":["Ongoye lye?", "Edhina lyoye olye?", "Owalya shike nena?"],
+		"responses": ["AI. Ongoye lye?", "Onda lya oshithima nonyama.", "Oho zi peni?"]
+	},
+	{"tag": "love_osh",
+		"patterns":["Ondi ku hole"],
+		"responses": ["Nangame ondi ku hole shinene.","Oshili ondi ku hole nangame.", "Ongoye awike ndi hole."]
+	},
+	{"tag": "goodbye_osh",
+		"patterns": ["Oshili nawa", "Tokelwa po nawa.", "Oshili nawa kuume.","Lala po nawa.", "Uha la po nawa."],
+		"responses": ["Tegelela manga, toyi peni?", "Eewa, tokelwa po nawa kuume kandje", "Eewa kunda yaandjeni.", "Galuka, owati otoyi peni nee?", "Edhina lyo kamwanyokomati lye?", "Otandi ku lombwele okahokololo okawanawa nayi.", "Eewa, owu talela ndje po esiku limwe.", "Onda geya opuna sha sha puka?", "Eewa, kunda meme natate."]
+	},
+	{"tag": "thanks_osh",
+		"patterns": ["Tangi", "Onda pandula", "Onde ku pandula."],
+		"responses": ["Tangi ketalele po lyoye.", "Nangame nda pandula unene ntowele.", "Nangame onda pandula, esiku lyoye na li ku yambekelwe."]
+	},
+	{"tag": "greeting_eng",
+		"patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+		"responses": ["Hello, thanks for visting", "Good to see you again", "Hi there, how can I help?"],
+		"context_set": ""
+	},
+	{"tag": "story_telling",
+		"patterns": ["Lombwelandje okahokololo.", "Lombwela ndje ehokololo.", "Oto lombwendje shike nee?"],
+		"responses": ["Esiku limwe okwa Shimbungu naKaandje. Kaandje okwa li ena oondunge noonkondo. Kaandje okwa lombwele Shimbungu opo yaye ya ka tale etango mboka ha li lala sho hali ningine. Shimbungu okwa itaala opo yaye. Opo ne Kaandje okwa lombwele Shimbungu kutya ne mu adhe tayi manga teya. kaandje ina galuka we. Shimbungu okwa yi eta kana.", "Namibia oshilongo oshi wanawana na oshina ombili."]	
+	},
+	{"tag": "goodbye_eng",
+		"patterns": ["Bye", "See you later", "Goodbye"],
+		"responses": ["See you later, thanks for visting", "Have a nice day", "Bye! Come back again soon."]
+	},
+	{"tag": "thanks_eng",
+		"patterns": ["Thanks", "Thank you", "That's helpful"],
+		"responses": ["You're welcome", "Is there anything else?", "Glad to help"]
+	},
+	{"tag": "who_eng",
+		"patterns": ["Who are you?", "What are you?", "Where were you made?"],
+		"responses": ["I am Jääkarhu, an AI created by NUST and Aalto students", "I am an AI", "I am Jääkarhu, your virtual friend", "My name is Jääkarhu, an AI bot by NUST and Aalto students","I am an AI who are you?"]
+	},
+	{"tag": "facts_eng",
+		"patterns": ["enlighten me", "share a fact", "tell me a fact"],
+		"responses": ["There’s volcano in Indonesia that spews blue lava.", "After reading this post you will not recognize that the the brain doesn’t recognize the second ‘the’.", "Bubble wrap was originally intended to be used as wallpaper.", "Every human being starts out as an asshole: it’s the first part of the body to form in the womb.", "You are completely blind for hours every day, but Saccadic Masking renders you totally unaware of it", "Tears caused by sadness, happiness and onions look different under the microscope.", "The expiration date on water bottles is for the bottle, not the water.", "Bird poop is white because they don’t pee.", "First law of cartoon physics: gravity doesn’t work until you look down.", "The year 2015 will be one second longer than usual because of the slowing of the Earth’s rotation", "Google has been acquiring 2 companies per month since 2010.", "Blue flames are hotter than red flames.", "On Venus, it snows metal. Two types have been discovered so far: galena and bismuthinite.", "You recall memories better with your eyes closed.", "People with blue eyes have a higher alcohol tolerance.", "Newborn babies cannot cry tears for at least three weeks", "Hippopotamus milk is pink.", "There is no substitute for human blood.", "Your heart rate slows when your face touches water; it’s called the mammalian dive reflex.", "There’s actually a blind spot in your vision, but your brain fills it in.", "You have never seen your face, only pictures and reflections.", "Coffee is most effective if consumed between 9:30 am and 11:30 am.", "Heavier, not bigger lemons produce more juice.", "", "", "", "Sound waves can make objects levitate.", "Water melons may improve athletic performance and curb the effects of muscle soreness.", "Nepal is the only country that doesn’t have a rectangular flag.", "Human eye can distinguish about 10 million different colors.", "A newborn baby has one cup of blood in his body.", "The tongue is the only muscle in the body only connected at one end.", "People are more likely to make good decisions when they need to urinate.", "Someone needs blood every 2 seconds.", "Tree can die from old age.", "Turritopsis dohrnii, a jellyfish that reverts to an earlier stage in its development cycle in order to cheat death.", "88% of New Year’s resolutions fail.", "Antarctica is the only continent without reptiles."]
+	}]
+}
